@@ -19,14 +19,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 
 I am currently studying a degree in Computer Engineering at UdL, specifically the mention in Computer Science.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I'm currently studying a degree in Computer Engineering
 - 🌱 I'm currently learning on Artifical Intelligence
-- 📫 How to reach me: <a href="https://gmail.com/jordi.farrera.palou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50px"/></a>
+- 📫 How to reach me: jordi.farrera.palou@gmail.com
 
 ---
 
