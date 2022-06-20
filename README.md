@@ -1,13 +1,14 @@
-<p align='center'>  
+<p align='center'>
 <a href="https://twitter.com/jordifp90"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/jordi_farrera"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jordi-farrera-palou-53b854242/"><img height="64" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hi there! 👋
 
 - 🔭 I’m currently studying a Computer Engineering degree.
 - 🌱 I’m currently learning Artificial Intelligence and Smart Contracts.
-- 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram or Twitter. 
+- 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram, Twitter or LinkedIn. 
 
 ## 🛠️ Languages and Tools
 
