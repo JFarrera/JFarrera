@@ -1,37 +1,17 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
+<p align='center'>  
+<a href="https://twitter.com/jordifp90"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/jordi_farrera"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
+</p>  
 
-<div id="badges" align="center">
-  <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
-  <a href=https://www.instagram.com/jordi_farrera />
-    <img src="https://img.shields.io/badge/Instagram-red?&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href=https://twitter.com/jordifp90 />
-    <img src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <h1>
-  Hi There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-</h1>
-</div>
+### Hi there! 👋
 
----
+- 🔭 I’m currently studying a Computer Engineering degree.
+- 🌱 I’m currently learning Artificial Intelligence and Smart Contracts.
+- 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram or Twitter. 
 
-### 👨‍💻 About Me
+## 🛠️ Languages and Tools
 
-- 🔭 I'm currently studying a degree in Computer Engineering
-- 🌱 I'm currently learning everything, specially Artificial Intelligence
-- 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram and Twitter
-- 🧑‍🤝‍🧑 I'm looking forward to collaborate with other people
-
----
-
-### 🛠️ Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,10 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+   
+## Stats   
 
----
-
-### 🔥 My Stats
-
-<img align="left" alt="JFarrera GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JFarrera&show_icons=true&hide_border=true&theme=onedark" />
+   <p align="center">
+      <img width="60%" src="https://github-readme-stats.vercel.app/api?username=JFarrera&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
+   </p>
