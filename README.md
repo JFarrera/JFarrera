@@ -7,7 +7,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently studying a Computer Engineering degree.
-- 🌱 I’m currently learning Artificial Intelligence and Smart Contracts.
+- 🌱 I’m currently learning Artificial Intelligence and Blockchain.
 - 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram, Twitter or LinkedIn. 
 
 ## 🛠️ Languages and Tools
@@ -22,9 +22,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-   
-## Stats   
-
-   <p align="center">
-      <img width="60%" src="https://github-readme-stats.vercel.app/api?username=JFarrera&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
-   </p>
