@@ -7,7 +7,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently studying a Computer Engineering degree.
-- 🌱 I’m currently learning Artificial Intelligence and Blockchain.
+- 🌱 I’m currently learning Web Development and Blockchain.
 - 📫 How to reach me: Via Gmail (jordi.farrera.palou@gmail.com), Instagram, Twitter or LinkedIn. 
 
 ## 🛠️ Languages and Tools
