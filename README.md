@@ -19,7 +19,7 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFarrera&show_icons=true&theme=transparent)
+![Jordi Farrera github stats](https://github-readme-stats.vercel.app/api?username=JFarrera&show_icons=true&theme=nord)
 
 ## 📫 Connect with me
 
