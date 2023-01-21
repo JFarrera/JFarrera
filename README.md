@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
 
-- 🔭 I’m currently working on [NEX](https://nex.es)
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web3 Development**
 
 ## 🛠️ Languages and Tools
 
